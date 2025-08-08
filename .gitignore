@@ -2,7 +2,7 @@ coverage/
 dist/
 node_modules/
 dev-dist/
-
+build/
 cypress/fixtures/
 cypress/videos/
 cypress/screenshots/
